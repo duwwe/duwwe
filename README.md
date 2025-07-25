@@ -2,8 +2,6 @@
 
 *Profile picture made by [@lagra](https://github.com/lagradon)*
 
-![Profile Views](https://komarev.com/ghpvc/?username=duwwe&color=blueviolet&style=flat-square)
-
 ## 🌱 About Me
 - 🇫🇮 Based in Finland, coding from the land of Nokia and Linux!
 - 📚 Been coding for ~1 year, still learning every day
