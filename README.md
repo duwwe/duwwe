@@ -46,6 +46,4 @@ I'm currently working on **evilkitty** together with my friend [@lagra](https://
 - 🤝 Always excited to connect with other developers, entrepreneurs, and AI enthusiasts!
 
 ---
-✨ Thanks for visiting my profile!
-
 *Profile picture made by [@lagra](https://github.com/lagradon)*
