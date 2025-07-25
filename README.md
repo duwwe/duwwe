@@ -1,5 +1,7 @@
 # Hey! 👋 I'm a Finnish developer building the future!
 
+*Profile picture made by [@lagra](https://github.com/lagradon)*
+
 ![Profile Views](https://komarev.com/ghpvc/?username=duwwe&color=blueviolet&style=flat-square)
 
 ## 🌱 About Me
