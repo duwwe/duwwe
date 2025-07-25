@@ -1,7 +1,5 @@
 # Hey! 👋 I'm a Finnish developer building the future!
 
-*Profile picture made by [@lagra](https://github.com/lagradon)*
-
 ## 🌱 About Me
 - 🇫🇮 Based in Finland, coding from the land of Nokia and Linux!
 - 📚 Been coding for ~1 year, still learning every day
@@ -49,3 +47,5 @@ I'm currently working on **evilkitty** together with my friend [@lagra](https://
 
 ---
 ✨ Thanks for visiting my profile!
+
+*Profile picture made by [@lagra](https://github.com/lagradon)*
